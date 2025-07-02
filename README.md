@@ -11,7 +11,6 @@ An MCP server for batch-generating wallets compatible with Ethereum and all EVM-
 
 - **Node.js**: Version 18 or higher.
 - **npm**: For installing dependencies.
-- **MCP Client**: An MCP-compatible client (e.g., [MCP Inspector](https://github.com/modelcontextprotocol/inspector)) for testing.
 
 ## Installation
 
